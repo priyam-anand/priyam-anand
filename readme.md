@@ -4,11 +4,11 @@
 
 - 🔭 I’m a Pre Final Year student from **JSSATE Noida**
 
-- 🌱 I’m currently learning **Solidity and ReactJS**
+- 🌱 I’m currently learning **Blockchain and ReactJS**
 
 - 👯 I’m looking to collaborate on **Blockchain and Web Development Projects**
 
-- 💬 Ask me about **Solidity, Express, ReactJS, NodeJS**
+- 💬 Ask me about **Blockchain, Ethereum, Solidity, ReactJS and NodeJS**
 
 - 📫 How to reach me: priyam27.anand@gmail.com
 
