@@ -32,4 +32,4 @@
 
 [![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyam-anand&show_icons=true&theme=radical)](https://github.com/priyam-anand)
 
-![snake gif](https://github.com/priyam-anand/priyam-anand/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/priyam-anand/priyam-anand/blob/output/github-contribution-grid-snake.svg)
