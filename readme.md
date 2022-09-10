@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Priyam</h2>
 <h1 align="center">A Web2 and Web3 developer</h1>
 
-
 - 🔭 I’m a Pre Final Year student from **JSSATE Noida**
 
 - 🌱 I’m currently learning **Blockchain and ReactJS**
@@ -33,3 +32,6 @@
 [![Priyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyam-anand&show_icons=true&theme=radical)](https://github.com/priyam-anand)
 
 ![snake gif](https://github.com/priyam-anand/priyam-anand/blob/output/github-contribution-grid-snake.svg)
+
+[![wakatime](https://wakatime.com/badge/user/d9fa7fe2-bcb6-4ea5-a639-262f0b5ee832.svg)](https://wakatime.com/@d9fa7fe2-bcb6-4ea5-a639-262f0b5ee832)
+
